@@ -1,5 +1,15 @@
 # hianadll
  
+ 
+11.04.2020
+
+- Rename Hiana.club to KillAura.host
+- New menu
+- Backtrack chams
+- Glow chams
+- Clean screenshots
+- Cfg save to C:\killaura\free
+
 28.03.2020
 
 - Removed "Disable model occlusion"
