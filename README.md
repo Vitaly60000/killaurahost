@@ -1,6 +1,10 @@
 # Killauradll
  
- 
+12.04.2020
+
+- Off backdrop as function
+- Fixed text in the menu
+
 11.04.2020
 
 - Rename Hiana.club to KillAura.host
